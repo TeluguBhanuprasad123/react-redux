@@ -1,0 +1,3 @@
+ export const HIT_SERVER="HIT SERVER";
+ export const HIT_SERVER_SUCCESS="HIT SERVER SUCCESS";
+ export   const HIT_SERVER_FAIL="HIT SERVER FAIL";
